@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cory Smith</h1>
 <h3 align="center">Full-Stack Developer with Over a Year of Professional Experience | Passionate About Building and Scaling User-Centric Applications</h3>
 
-- 🔭 I’m currently working on **C# rule engine and Neighborly web application**
+- 🔭 I’m currently working on **C# Web sales application for D.R. Horton**
 
 - 💬 Ask me about **React**
 
