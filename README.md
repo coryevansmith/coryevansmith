@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cory Smith</h1>
-<h3 align="center">Full-Stack Developer with Over 3 Years of Professional Experience | Passionate About Building and Scaling User-Centric Applications</h3>
+<h3 align="center">Full-Stack Developer with Over 5 Years of Professional Experience | Passionate About Building and Scaling User-Centric Applications</h3>
 
 - 🔭 I’m currently working on **Home Sales Web**
 
